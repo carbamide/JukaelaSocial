@@ -1,0 +1,7 @@
+parameters:
+#    jukaela_jukaela_social.example.class: Jukaela\JukaelaSocialBundle\Example
+
+services:
+#    jukaela_jukaela_social.example:
+#        class: %jukaela_jukaela_social.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
